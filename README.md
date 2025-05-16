@@ -8,7 +8,9 @@
 <!-- body -->
 ## <div align="center"> :love_letter:Introduction </div>
 <div align="center">
-
+I am HyeN.<br><br>
+<i>Journey to becoming a person who never gives up</i><br><br>
+I'll run hard on it!
 </div>
 
 <br>
