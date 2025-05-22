@@ -49,7 +49,7 @@ I'll run hard on it!
 <div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyu0410&layout=compact&cache_bust=1" alt="Top Langs" width=300 />-->
   <img src="https://github-readme-stats.vercel.app/api?username=Hyu0410&show_icons=true&theme=radical" alt="Anurag's stats" />
-<!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Hyu0410" alt="Solved.ac Profile"/> -->
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kws03126" alt="Solved.ac Profile" width="400"/>
 <!--   [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=Hyu0410)](https://solved.ac/Hyu0410/) -->
 </div>
 
